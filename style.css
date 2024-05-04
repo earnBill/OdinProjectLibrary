@@ -1,0 +1,19 @@
+
+dialog div {
+    margin: 5px;
+    display: flex;
+    justify-content:space-between;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container .card {
+    border: 1px solid grey;
+    min-width: 20%;
+    margin: 5px;
+    padding: 5px;
+   
+}
